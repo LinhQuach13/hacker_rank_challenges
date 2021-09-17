@@ -1,2 +1,2 @@
 # Description:
-This repositiory contains exercises from HackerRank.
+This repository contains exercises from HackerRank.
