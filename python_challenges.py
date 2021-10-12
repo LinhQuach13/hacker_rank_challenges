@@ -70,3 +70,11 @@ if __name__ == '__main__':
     b = int(input())
 print(a//b)
 print (float(a/b))
+
+
+# Task
+# The provided code stub reads and integer, , from STDIN. For all non-negative integers i < n , print i^2.
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(n):
+        print (i**2)
